@@ -244,14 +244,14 @@ Here's how an author markdown file might look like:
 
 ```md:default.md
 ---
-name: Tails Azimuth
+name: Lem Uhuru
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Software Engineer
+company: esy.com
+email: lem@esy.com
+twitter: https://twitter.com/lemuhuru
+linkedin: https://www.linkedin.com/in/lemuhuru
+github: https://github.com/lemuhuru
 ---
 
 A long description of yourself...

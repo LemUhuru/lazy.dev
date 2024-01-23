@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
+  title: 'The Lazy Dev',
+  author: 'Lemuel Uhuru',
   headerTitle: 'lazy.Dev',
-  description: 'Welcome to lazy.dev, a tech blog and portfolio of apps by the laziest and most productive dev on the market.',
+  description: 'Welcome to lazy.dev, a tech blog and portfolio of apps by one of the laziest yet most productive devs on the web.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://lazy.dev',
